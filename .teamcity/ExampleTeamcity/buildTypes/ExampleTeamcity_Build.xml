@@ -19,7 +19,7 @@
           <param name="userSettingsSelection" value="userSettingsSelection:default" />
         </parameters>
       </runner>
-      <runner id="Maven_deploy" name="Deploy" type="Maven2">
+      <runner id="Maven_deploy" name="Maven Deploy" type="Maven2">
         <conditions>
           <contains name="teamcity.build.branch" value="master" />
         </conditions>
