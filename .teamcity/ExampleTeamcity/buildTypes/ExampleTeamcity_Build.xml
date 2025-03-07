@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <build-type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="d897a961-e24d-4c61-9a3c-1eb49075598e" xsi:noNamespaceSchemaLocation="https://www.jetbrains.com/teamcity/schemas/2021.1/project-config.xsd">
-  <name>Build</name>
-  <description />
+  <name>Build (1)</name>
+  <description>netology build</description>
   <settings>
     <parameters />
     <build-runners>
