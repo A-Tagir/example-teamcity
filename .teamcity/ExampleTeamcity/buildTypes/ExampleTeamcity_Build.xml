@@ -3,6 +3,9 @@
   <name>Build (1)</name>
   <description>netology build</description>
   <settings>
+    <options>
+      <option name="artifactRules" value="target/original-plaindoll-2.0.1.jar&#xA;target/plaindoll-2.0.1.jar" />
+    </options>
     <parameters />
     <build-runners>
       <runner id="Maven2" name="" type="Maven2">
